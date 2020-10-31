@@ -1,6 +1,7 @@
 {
   "name": "wikirye",
   "version": "0.0.1",
+  "description": "An open source alternative to Wikiwand, designed with the goal of integration of all Wikimedia Foundation projects",
   "main": "index.js",
   "license": "CC-BY-4.0"
 }
